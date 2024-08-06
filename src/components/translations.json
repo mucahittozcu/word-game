@@ -1,0 +1,30 @@
+{
+    "en":{
+        "start": "Start",
+        "wordScramble": "WORD SCRAMBLE",
+        "enter": "Enter",
+        "newGame": "New Game",
+        "alphabet": "A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z",
+        "words": "React,Next,Engineer,Developer,Javascript,embarrass,Haven,Scare,Sale,Absolutely,Accident,Completely",
+        "correct": "Correct",
+        "wrong": "Wrong",
+        "game": "Time Expired",
+        "time": "Countdown",
+        "modal": "Close Modal",
+        "pass": "Next"
+    },
+    "tr":{
+        "start": "Başla",
+        "wordScramble": "KELİME YARIŞMASI",
+        "enter": "Gönder",
+        "newGame": "Yeni Oyun",
+        "alphabet": "A,B,C,Ç,D,E,F,G,Ğ,H,İ,I,J,K,L,M,N,O,Ö,P,R,S,Ş,T,U,Ü,V,Y,Z",
+        "words": "React,Next,Mühendis,Geliştirici,Javascript,Utandırmak,Sığınak,Korkutmak,Satış,Kesinlikle,Kaza,Tamamen",
+        "correct": "Doğru",
+        "wrong": "Yanlış",
+        "game": "Süre Doldu",
+        "time": "Kalan Süre",
+        "modal": "Modal'ı Kapat",
+        "pass": "Sonraki"
+    }
+}
